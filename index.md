@@ -7,6 +7,7 @@
       <p><b>北京邮电大学计算机学院</b></p>
       <p><b>邮箱：792156587@qq.com</b></p>
       <p><b>地址：北京市海淀区西土城路10号</b></p>
+      <p><a href="https://blog.csdn.net/hhdong123">CSDN博客</a></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
